@@ -1,0 +1,55 @@
+Bibliography:
+
+1. Amirullah, Aulia, Indra Aulia, and Dedy Arisandy. “Implementing Cosine Similarity Algorithm to Increase the Flexibility of Hematology Text Report Generation.” In 2020 International Conference on Data Science, Artificial Intelligence, and Business Analytics (DATABIA), 76–82. Medan, Indonesia: IEEE, 2020. https://doi.org/10.1109/DATABIA50434.2020.9190549.
+
+2. Benaben, Frederick, Matthieu Lauras, Benoit Montreuil, Louis Faugere, Juanqiong Gou, and Wenxin Mu. “Physics of Organization Dynamics: An AI Framework for Opportunity and Risk Management.” In 2019 International Conference on Industrial Engineering and Systems Management (IESM), 1–6. Shanghai, China: IEEE, 2019. https://doi.org/10.1109/IESM45758.2019.8948167.
+
+3. Chergui, Nabila, M-Tahar Kechadi, and Michael McDonnell. “The Impact of Data Analytics in Digital Agriculture: A Review.” In 2020 International Multi-Conference on: “Organization of Knowledge and Advanced Technologies” (OCTA), 1–13. Tunis, Tunisia: IEEE, 2020. https://doi.org/10.1109/OCTA49274.2020.9151851.
+
+4. Dasoriya, Rayan, Javan Rajpopat, Rishabh Jamar, and Mahesh Maurya. “The Uncertain Future of Artificial Intelligence.” In 2018 8th International Conference on Cloud Computing, Data Science & Engineering (Confluence), 458–61. Noida: IEEE, 2018. https://doi.org/10.1109/CONFLUENCE.2018.8442945.
+
+5. Delacroix, Eric. “It Takes More Than Technologies.” IEEE Potentials 39, no. 6 (November 2020): 11–14. https://doi.org/10.1109/MPOT.2020.3014452.
+
+6. Drobot, Adam T. “Industrial Transformation and the Digital Revolution: A Focus on Artificial Intelligence, Data Science and Data Engineering.” In 2020 ITU Kaleidoscope: Industry-Driven Digital Transformation (ITU K), 1–11. Ha Noi, Vietnam: IEEE, 2020. https://doi.org/10.23919/ITUK50268.2020.9303221.
+
+7. Dwi Prayogo, Rizal, and Nurul Ikhsan. “Attribute Selection Effect on Tree-Based Classifiers for Letter Recognition.” In 2020 International Conference on Data Science, Artificial Intelligence, and Business Analytics (DATABIA), 13–18. Medan, Indonesia: IEEE, 2020. https://doi.org/10.1109/DATABIA50434.2020.9190393.
+
+8. Earley, Seth. “The Problem With AI.” IT Professional 19, no. 4 (2017): 63–67. https://doi.org/10.1109/MITP.2017.3051331.
+
+9. Ebadi, Ashkan, Yvan Gauthier, Stephane Tremblay, and Patrick Paul. “How Can Automated Machine Learning Help Business Data Science Teams?” In 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA), 1186–91. Boca Raton, FL, USA: IEEE, 2019. https://doi.org/10.1109/ICMLA.2019.00196.
+
+10. Fatima, Afifa, Faizan Ali Khan, Aneeq Raza, and Abdul Basit Kamran. “Automated Feature Synthesis from Relational Database for Data Science Related Problems.” In 2018 International Conference on Frontiers of Information Technology (FIT), 71–75. Islamabad, Pakistan: IEEE, 2018. https://doi.org/10.1109/FIT.2018.00020.
+
+11. Gibert, Karina, Conxi Perez Andreu, and Nuria Castell. “Deployment of Territorial Structures to Reduce Gender Gap in Technology and Some Real Cases in Catalonia.” In 2019 24th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), 1823–30. Zaragoza, Spain: IEEE, 2019. https://doi.org/10.1109/ETFA.2019.8869108.
+
+12. Kandasamy, Priya, Divya Raji, and Sundararaman Arun. “Data Science Techniques to Improve Accuracy of Provider Network Directory.” In 2018 IEEE 25th International Conference on High Performance Computing Workshops (HiPCW), 119–28. Bengaluru, India: IEEE, 2018. https://doi.org/10.1109/HiPCW.2018.8634423.
+
+13. Khan, Shahzia, and Roopesh Reddy Alla. “Big Data and Customer Relationship Management: Impact on General Insurance Companies in UAE.” In 2021 11th International Conference on Cloud Computing, Data Science & Engineering (Confluence), 273–79. Noida, India: IEEE, 2021. https://doi.org/10.1109/Confluence51648.2021.9377184.
+
+14. Lai, Ying-Hsun, Tung-Cheng Wu, Chin-Feng Lai, Laurence Tianruo Yang, and Xiaokang Zhou. “Cognitive Optimal-Setting Control of AIoT Industrial Applications With Deep Reinforcement Learning.” IEEE Transactions on Industrial Informatics 17, no. 3 (March 2021): 2116–23. https://doi.org/10.1109/TII.2020.2986501.
+
+15. Latif, Siddique, Muhammad Usman, Sanaullah Manzoor, Waleed Iqbal, Junaid Qadir, Gareth Tyson, Ignacio Castro, et al. “Leveraging Data Science to Combat COVID-19: A Comprehensive Review.” IEEE Transactions on Artificial Intelligence 1, no. 1 (August 2020): 85–103. https://doi.org/10.1109/TAI.2020.3020521.
+
+16. Lee, Eunjo, Yoonjae Jang, Du-Mim Yoon, Jihoon Jeon, Seong-il Yang, Sang-Kwang Lee, Dae-Wook Kim, et al. “Game Data Mining Competition on Churn Prediction and Survival Analysis Using Commercial Game Log Data.” IEEE Transactions on Games 11, no. 3 (September 2019): 215–26. https://doi.org/10.1109/TG.2018.2888863.
+
+17. Muhlroth, Christian, and Michael Grottke. “Artificial Intelligence in Innovation: How to Spot Emerging Trends and Technologies.” IEEE Transactions on Engineering Management, 2020, 1–18. https://doi.org/10.1109/TEM.2020.2989214.
+
+18. Rachmawati, Dian, Poltak Sihombing, and Billy Halim. “Implementation of Best First Search Algorithm in Determining Best Route Based on Traffic Jam Level in Medan City.” In 2020 International Conference on Data Science, Artificial Intelligence, and Business Analytics (DATABIA), 5–12. Medan, Indonesia: IEEE, 2020. https://doi.org/10.1109/DATABIA50434.2020.9190626.
+
+19. Saiki, Sachio, Naoki Fukuyasu, Kohei Ichikawa, Tetsuya Kanda, Masahide Nakamura, Shinsuke Matsumoto, Shinichi Yoshida, and Shinji Kusumoto. “A Study of Practical Education Program on AI, Big Data, and Cloud Computing through Development of Automatic Ordering System.” In 2018 IEEE International Conference on Big Data, Cloud Computing, Data Science & Engineering (BCD), 31–36. Yonago: IEEE, 2018. https://doi.org/10.1109/BCD2018.2018.00013.
+
+20. Sukumar, Sreenivas R. “Open Research Challenges with Big Data — A Data-Scientist’s Perspective.” In 2015 IEEE International Conference on Big Data (Big Data), 1272–78. Santa Clara, CA, USA: IEEE, 2015. https://doi.org/10.1109/BigData.2015.7363882.
+
+21. ———. “Open Research Challenges with Big Data — A Data-Scientist’s Perspective.” In 2015 IEEE International Conference on Big Data (Big Data), 1272–78. Santa Clara, CA, USA: IEEE, 2015. https://doi.org/10.1109/BigData.2015.7363882.
+
+22. T, Puneeth Kumar, Manjunath T N, and Ravindra S. Hegadi. “Literature Review on Big Data Analytics and Demand Modeling in Supply Chain.” In 2018 International Conference on Electrical, Electronics, Communication, Computer, and Optimization Techniques (ICEECCOT), 1246–52. Msyuru, India: IEEE, 2018. https://doi.org/10.1109/ICEECCOT43722.2018.9001513.
+
+23. Tane, Etsuko, and Yuko Fujigaki. “Cross-Disciplinary Survey on ‘Data Science’ Field Development: Historical Analysis from 1600s-2000s.” In 2017 Portland International Conference on Management of Engineering and Technology (PICMET), 1–10. Portland, OR: IEEE, 2017. https://doi.org/10.23919/PICMET.2017.8125428.
+
+24. Titu, Aurel Mihail, and Alexandru Stanciu. “Acquiring Businesss Intelligence through Data Science: A Practical Approach.” In 2020 12th International Conference on Electronics, Computers and Artificial Intelligence (ECAI), 1–6. Bucharest, Romania: IEEE, 2020. https://doi.org/10.1109/ECAI50035.2020.9223190.
+
+25. Tiwari, Pooja, Rudresh Pandey, Vikas Garg, and Abhishek Singhal. “Application of Artificial Intelligence in Human Resource Management Practices.” In 2021 11th International Conference on Cloud Computing, Data Science & Engineering (Confluence), 159–63. Noida, India: IEEE, 2021. https://doi.org/10.1109/Confluence51648.2021.9377160.
+
+26. Yang, Bo, June Yamazaki, Nao Saito, Yutaka Kokai, and Da Xie. “Big Data Analytic Empowered Grid Applications &#x2014; Is PMU a Big Data Issue?” In 2015 12th International Conference on the European Energy Market (EEM), 1–4. Lisbon, Portugal: IEEE, 2015. https://doi.org/10.1109/EEM.2015.7216718.
+
+27. Zhou, Jianlong, Fang Chen, Adam Berry, Mike Reed, Shujia Zhang, and Siobhan Savage. “A Survey on Ethical Principles of AI and Implementations.” In 2020 IEEE Symposium Series on Computational Intelligence (SSCI), 3010–17. Canberra, ACT, Australia: IEEE, 2020. https://doi.org/10.1109/SSCI47803.2020.9308437.

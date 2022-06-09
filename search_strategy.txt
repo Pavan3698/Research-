@@ -1,0 +1,29 @@
+1. Research Question:
+How do data science applied with artificial intelligence to create value in businesses?
+
+2. Search String:
+"data science" AND  ("artificial intelligence" OR AI)  AND ( applied OR create OR value) AND (businesses OR organization OR company)
+171 Papers found in IEEE xplore
+
+3. Dismissed Search String:
+1. ("data science" OR data OR predictions) AND ("artificial intelligence" OR AI) AND (value OR benefit OR advantage OR help) AND (businesses OR company OR operation)
+2. "data science" AND  ("artificial intelligence" OR AI) AND (value OR benefit OR advantage OR help) AND (businesses OR company OR operation)
+
+4. Inclusion criteria:
+Peer-reviewed publications (such as conference and journal).
+Papers that are related to data science and artificial intelligence and businesses.
+Papers that were published in between 2008 and 2021.
+171 papers lower down to 27 papers that are relevance to research question.
+
+
+5. Exclusion criteria:
+Non-peer-reviewed publications (such as Magazine and Article).
+Papers that were published before 2008.
+144 papers that are not relevance to research question.
+
+6. Source/search engine:
+IEEE xplore - Searched - 21/07/2021
+
+
+
+
